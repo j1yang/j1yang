@@ -2,6 +2,12 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/jaewon-yang/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black"/>
+    <a/>&nbsp
+    <img src="https://img.shields.io/badge/dev.j1yang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>&nbsp 
+  <div/>
 </div>
 
 <br/><br/>
