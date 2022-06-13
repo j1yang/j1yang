@@ -3,9 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   <div align="center">
-    <a href="https://www.linkedin.com/in/jaewon-yang/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black"/>
-    <a/>&nbsp
+    <a href="https://www.linkedin.com/in/jaewon-yang/">
+      <img src="https://img.shields.io/badge/LinkdIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black"/>
+    <a/>&nbsp<br/>
     <img src="https://img.shields.io/badge/dev.j1yang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>&nbsp 
   <div/>
 </div>
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>&nbsp 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=black"/>&nbsp <br/>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Java-A30701?style=flat-square&logo=Java&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.JS&logoColor=black"/>&nbsp 
@@ -34,3 +35,12 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat-square&logo=Apache Cordova&logoColor=black"/>&nbsp
 </div>
+
+<div align="center">
+	<h3>Tools<h3/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"/>&nbsp
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/>&nbsp
+<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=black"/>&nbsp
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=black"/>&nbsp   
+<div/>
