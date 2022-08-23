@@ -52,5 +52,5 @@
 ![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=EclipseIDE&logoColor=white)
 
 
-### Visitors
+### Hits
 ![Visitor Count](https://profile-counter.glitch.me/j1yang/count.svg)
