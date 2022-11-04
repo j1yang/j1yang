@@ -1,4 +1,4 @@
-# Hi, I'm Jaewon :smiley:
+# Hi, I'm Jay :smiley:
 
 <div id="header" align="center">
 
