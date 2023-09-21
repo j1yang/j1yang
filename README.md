@@ -28,14 +28,14 @@
 
 | LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/Tools           | TESTING    | CLOUD/SERVER    | CI/CD      |
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
-| JavaScript(ES8) | React.js/Next.js/Redux| MySQL/Oracle       | Selenium   | Google Firebase | Docker    |
+| JavaScript(ES8) | React.js/Next.js/Redux| Oracle/MySQL            | Selenium   | Google Firebase | Docker    |
 | TypeScript      | Node.js/Express.js   | MongoDB            | C# Unit Test| Microsoft Azure|            |           
 | Java/JSP/Android| Angular              | GraphQL/Firebase   | JMeter     | Netlify         |            |
-| Python          | TailwindCSS          | MySQL/OracleDB     |            | Github page     |            |
+| Python          | TailwindCSS          | Vite/Webpack       |            | Github page     |            |
 | HTML5/CSS3      | Material-UI          | Git/Bitbucket      |            | Heroku          |            |
 | C#/ASP.NET      | Bootstrap            | Jira/Confluence    |            | Tomcat          |            |
 | SQL             | Three.js             | Slack/Asana        |            |                 |            |
-| Svelte          | jQuery/AJAX          | Vite/Webpack       |            |                 |            |   
+| Svelte          | jQuery/AJAX          |                    |            |                 |            |   
   </details>
 
 
