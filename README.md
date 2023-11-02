@@ -1,7 +1,6 @@
 # Hello, I'm Jaewon 👋
   
-- :speech_balloon: Feel free to contact me on **[LinkedIn](https://www.linkedin.com/in/jaewon-yang/)** and I should be able to respond fairly quickly!
-- :sparkles: Currently working part-time as a **Mentor** at **[VARLAB](https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/mycompany/)**.
+- :speech_balloon: Feel free to contact me on **[LinkedIn](https://www.linkedin.com/in/jaewon-yang/)** and I respond fairly quickly!
 
 - 💻 Led the creation of vConestoga, an in-house VARLab project for enhancing Conestoga College's web XR lecture platform.
 - 🔭 Worked as a **Full Stack Developer** from the **[VARLAB](https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/mycompany/) for 1 year**.
@@ -16,7 +15,7 @@
       
     - Boosted performance by migrating an existing educational simulation to WebGL, enhancing interactivity and visual fidelity. Integrated tailored analytics through Microsoft PlayFab to provide detailed insights, further optimizing the learning experience.
   </details>
-- :memo: I’m currently learning **Data Strucures**, **Svelte/GraphQL/Firebase** and **Docker**.
+- :memo: I’m currently learning **Svelte/GraphQL/Firebase** and **Docker**.
 - ✨ Expected graduation date is April 2024.
 
 - 😄 Pronouns: He/Him.
