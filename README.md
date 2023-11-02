@@ -3,7 +3,7 @@
 - :speech_balloon: Feel free to contact me on **[LinkedIn](https://www.linkedin.com/in/jaewon-yang/)** and I respond fairly quickly!
 
 - 💻 Led the creation of vConestoga, an in-house VARLab project for enhancing Conestoga College's web XR lecture platform.
-- 🔭 Worked as a **Full Stack Developer** from the **[VARLAB](https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/mycompany/) for 1 year**.
+- 🔭 Worked as a **Full Stack Developer** from the **[VARLAB](https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/mycompany/) over 1 year**.
   <details>
     <summary>Accomplishments</summary>
     
